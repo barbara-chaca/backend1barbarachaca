@@ -1,0 +1,24 @@
+[
+    {
+      "id": "1",
+      "title": "Calathea",
+      "description": "Planta ideal para interiores.",
+      "code": "PLT001",
+      "price": 10000,
+      "status": true,
+      "stock": 10,
+      "category": "Plantas de Interior",
+      "thumbnails": ["images/fotocalathea.jpg"]        
+    },
+    {
+      "id": "2",
+      "title": "Ficus Benjamina",
+      "description": "Árbol de interior con hojas verdes brillantes.",
+      "code": "PLT002",
+      "price": 25000,
+      "status": true,
+      "stock": 10,
+      "category": "Plantas de Interior",
+      "thumbnails": ["images/fotoficus.jpg"]
+    }
+]
